@@ -43,4 +43,4 @@ npm install
 ```bash
 npm run dev
 ```
-4. Access the platform locally in your web browser at `http://http://localhost:5173`.
+4. Access the platform locally in your web browser at `http://localhost:5173`.
